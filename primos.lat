@@ -1,0 +1,33 @@
+mientras verdadero
+  escribir("¿Cuántos números generaré?")
+  cantidad = leer()
+  t_cantidad = tipo(cantidad)
+
+  si t_cantidad != "decimal" || cantidad <= 0
+    escribir("Saliendo...")
+    romper
+  fin
+
+  primos = []
+  contador = 1
+
+  escribir("")
+
+  mientras cantidad > lista.longitud(primos)
+    divisiones = 0
+
+    desde (i = 1; i <= contador; i++)
+      si contador % i == 0
+        divisiones = divisiones + 1
+      fin
+    fin
+
+    si divisiones == 2
+      lista.agregar(primos, contador)
+    fin
+
+    contador = contador + 1
+  fin
+
+  escribir("gg"..primos.."\n")
+fin

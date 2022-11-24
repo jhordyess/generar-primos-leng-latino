@@ -1,0 +1,13 @@
+{
+  "name": "latino-hola-mundo",
+  "image": "jhordyess/latino",
+  "customizations": {
+    "vscode": {
+      "extensions": ["MelvinGuerrero.latino-vscode"],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh"
+      }
+    }
+  },
+  "remoteUser": "jhordyess"
+}
