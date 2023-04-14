@@ -10,9 +10,9 @@ El programa generará números primos, solo indica cuantos necesitas.
 latino primos.lat
 ```
 
-## Cuidado
+## Entorno de desarrollo
 
-Se utiliza contenedores remotos con Visual Studio Code, para más información revisa el [archivo de configuración](/.devcontainer/devcontainer.json).
+Se utiliza [contenedores de desarrollo de Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/containers), puedes ver el [archivo de configuración](/.devcontainer/devcontainer.json) para más información.
 
 ## Licencia
 
