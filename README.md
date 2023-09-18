@@ -12,7 +12,7 @@ latino primos.lat
 
 ## Entorno de desarrollo
 
-Se utiliza [contenedores de desarrollo de Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/containers), puedes ver el [archivo de configuración](/.devcontainer/devcontainer.json) para más información.
+Se utiliza [contenedores de desarrollo de Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/containers), puedes ver el [archivo de configuración](/.devcontainer.json) para más información.
 
 ## Licencia
 
